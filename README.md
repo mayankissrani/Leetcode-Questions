@@ -1,4 +1,4 @@
-Leetcode and Hackerrank solutions here :)
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
