@@ -1,3 +1,6 @@
+
+// this solution has time complexity of O(n) 
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
