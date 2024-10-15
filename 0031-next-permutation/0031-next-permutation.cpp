@@ -14,14 +14,15 @@ public:
         if (pivot == -1) {
             reverse(A.begin(), A.end());
             return;
-        }
+        } 
+        // finding right most element greater than pivot 
         for (int i = n - 1; i > pivot; i--) {
             if (A[i] > A[pivot]) {
                 swap(A[i], A[pivot]);
                 break;
             }
         }
-
+        //reversing the rest part
         reverse(A.begin() + pivot + 1, A.end());
     }
 };
