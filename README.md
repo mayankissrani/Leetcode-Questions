@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mayankissrani/Leetcode-Questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Two Pointers
 |  |
@@ -33,4 +34,12 @@
 | [0035-search-insert-position](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->rt-->
