@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
