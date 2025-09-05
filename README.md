@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,4 +44,16 @@
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->rt-->
