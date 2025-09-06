@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0983-validate-stack-sequences) |
@@ -22,6 +23,7 @@
 | [0031-next-permutation](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mayankissrani/Leetcode-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->rt-->
